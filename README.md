@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Asif Shaikh
+- 👋 Hi, I’m @Abuzar Khan
 - 👀 I’m interested in learning new technologies...
 - 🌱 I’m currently learning Data science...
 - 💞️ I’m looking new opportunities to enhance my skills ...
-- 📫 How to reach me ... Shaikhasif694@gmail.com
+- 📫 How to reach me ... abuzar4828@gmail.com
 
 
 <!---
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <a href="https://github.com/denvercoder1/readme-typing-svg">
-        <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=cb3365&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hey,+There!+👋>;<This+is+Asif!>;<Glad+to+meet+you!>">
+        <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=cb3365&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hey,+There!+👋>;<This+is+ABUZAR!>;<Glad+to+meet+you!>">
     </a>
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Shaikh&show_icons=true&theme=radical" width="42%" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Shaikh&show_icons=true&theme=radical" width="32%" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abuzar-Khan&show_icons=true&theme=radical" width="42%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzar-Khan&show_icons=true&theme=radical" width="32%" alt="Top Langs">
 </div>
 
 
