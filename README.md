@@ -1,8 +1,10 @@
 👋 Hi, I’m @Abuzar Khan
+
 👀 I’m interested in learning new technologies...
+
 🌱 I’m currently learning Data science...
 💞️ I’m looking new opportunities to enhance my skills ...
-📫 How to reach me ... Shaikhasif694@gmail.com
+📫 How to reach me ... abuzar4828@gmail.com
 <!DOCTYPE html>
 <html lang="en">
 <head>
